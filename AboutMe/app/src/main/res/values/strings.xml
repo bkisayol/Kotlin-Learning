@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Berkay Kısayol</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">I have a bachelor\'s degree in Mechanical Engineering\nfrom Dogus University and three years of work experience\nin Quality Management. Curently I am pursuing a Master\'s degree in\nComputer and Information Sciences at Dogus University.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
