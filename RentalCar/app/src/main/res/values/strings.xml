@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RentalCar</string>
+    <string name="Continue_button">Continue</string>
+    <string name="nameText">Beepy</string>
+    <string name="FindYourVehicle">Find Your Vehicle</string>
+    <string name="onboarding_text">Find the perfect vehicle for every occasion!</string>
+    <string name="YourdreamCar">Your dream Car</string>
+    <string name="onboarding_two_text">Rent the car you’ve always wanted to drive.</string>
+    <string name="SmallOnesToo">Small Ones Too!</string>
+    <string name="onboarding_three_text">Rent a small vehicle for those short distances</string>
+    <string name="FindOurStations">Find Our Stations</string>
+    <string name="onboarding_four_text">Find your nearest station to rent your car!</string>
+    <string name="back">Back</string>
+    <string name="getStarted">Get Started</string>
+    <string name="classicCar">Classic Car</string>
+    <string name="sportCar">Sport Car</string>
+    <string name="flyingCar">Flying Car</string>
+    <string name="electricCar">Electric Car</string>
+</resources>
